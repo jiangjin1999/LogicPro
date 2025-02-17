@@ -6,9 +6,9 @@ LogicPro: Logical Reasoning Enhanced with Program Examples
 </h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2309.17452"><b>[📑 Paper]</b></a> •
-  <a href="https://huggingface.co/llm-agents"><b>[🤗 HF Models]</b></a> •
-  <a href="https://github.com/microsoft/ToRA"><b>[👻 GitHub]</b></a>
+  <a href="https://arxiv.org/abs/2409.12929"><b>[📑 Paper]</b></a> •
+  <a href="https://huggingface.co/template"><b>[🤗 HF Models]</b></a> •
+  <a href="https://github.com/jiangjin1999/LogicPro"><b>[👻 GitHub]</b></a>
 
 </p>
 
