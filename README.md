@@ -7,7 +7,7 @@ LogicPro: Logical Reasoning Enhanced with Program Examples
 
 <p align="center">
   <a href="https://arxiv.org/abs/2409.12929"><b>[📑 Paper]</b></a> •
-  <a href="https://huggingface.co/template"><b>[🤗 HF Models]</b></a> •
+  <a href="https://huggingface.co/datasets/jiangjin/LogicPro"><b>[🤗 HF Models]</b></a> •
   <a href="https://github.com/jiangjin1999/LogicPro"><b>[👻 GitHub]</b></a>
 
 </p>
@@ -23,7 +23,7 @@ Repo for "<a href="https://arxiv.org/abs/2408" target="_blank">LogicPro: Logical
 </p>
 
 ## 🔥 News
-- [2025/02/17] 🔥🔥🔥 LogicPro (500K+) released at [🤗 HuggingFace](https://huggingface.co/)!
+- [2025/02/17] 🔥🔥🔥 LogicPro (500K+) released at [🤗 HuggingFace](https://huggingface.co/datasets/jiangjin/LogicPro)!
 - [2024/09/19] LogicPro paper released.
 
 ## 💡 Introduction
