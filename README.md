@@ -34,7 +34,7 @@ LogicPro is a data synthesis method that leverages LeetCode-style algorithm **Pr
 2. **Answer Generation**: Using standard Python solutions and test cases, we obtain the correct answers and intermediate variable outputs for each problem.  
 3. **Reasoning Process Synthesis**: Guided by the intermediate variable outputs, we construct high-quality textual reasoning processes for each problem.  
 
-This method enables us to synthesize reasoning data that is **challenging, scalable, and effective**, while also providing **gold-standard answers** and **high-quality reasoning processes**. With our **540K synthesized dataset**, built from just **2,360 algorithm problems**, LogicPro significantly improves the performance of multiple models on benchmark datasets such as **BBH$^{27}$, LogicBench, DROP, AR-LSAT,** and **GSM8K**, outperforming various existing reasoning datasets.
+This method enables us to synthesize reasoning data that is **challenging, scalable, and effective**, while also providing **gold-standard answers** and **high-quality reasoning processes**. With our **540K synthesized dataset**, built from just **2,360 algorithm problems**, LogicPro significantly improves the performance of multiple models on benchmark datasets such as **BBH, LogicBench, DROP, AR-LSAT,** and **GSM8K**, outperforming various existing reasoning datasets.
 
 
 
