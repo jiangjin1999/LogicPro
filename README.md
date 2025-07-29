@@ -8,7 +8,8 @@ LogicPro: Logical Reasoning Enhanced with Program Examples
 <p align="center">
   <a href="https://arxiv.org/abs/2409.12929"><b>[📑 Paper]</b></a> •
   <a href="https://huggingface.co/datasets/jiangjin/LogicPro"><b>[🤗 HF Dataset]</b></a> •
-  <a href="https://github.com/jiangjin1999/LogicPro"><b>[👻 GitHub]</b></a>
+  <a href="https://github.com/jiangjin1999/LogicPro"><b>[👻 GitHub]</b></a> •
+  <a href="https://x.com/JiangJin_PKU/status/1950293851266306207"><b>[🔗 X/Twiiter]</b></a>
 
 </p>
 
@@ -23,6 +24,7 @@ Repo for "<a href="https://arxiv.org/abs/2408" target="_blank">LogicPro: Logical
 </p>
 
 ## 🔥 News
+- [2025/05/16] 🎉🎉🎉 Our work has been accepted as an ACL 2025 Main Conference paper!
 - [2025/02/17] 🔥🔥🔥 LogicPro (500K+) released at [🤗 HuggingFace](https://huggingface.co/datasets/jiangjin/LogicPro)!
 - [2024/09/19] LogicPro paper released.
 
@@ -35,6 +37,19 @@ LogicPro is a data synthesis method that leverages LeetCode-style algorithm **Pr
 3. **Reasoning Process Synthesis**: Guided by the intermediate variable outputs, we construct high-quality textual reasoning processes for each problem.  
 
 This method enables us to synthesize reasoning data that is **challenging, scalable, and effective**, while also providing **gold-standard answers** and **high-quality reasoning processes**. With our **540K synthesized dataset**, built from just **2,360 algorithm problems**, LogicPro significantly improves the performance of multiple models on benchmark datasets such as **BBH, LogicBench, DROP, AR-LSAT,** and **GSM8K**, outperforming various existing reasoning datasets.
+
+
+## 🔗 Related Work  
+We would also like to highlight other works that share similar ideas and approaches to ours. Please check out the following:  
+
+1. **CodeI/O**: Condensing Reasoning Patterns via Code Input-Output Prediction  
+   [https://arxiv.org/abs/2502.07316v2](https://arxiv.org/abs/2502.07316v2)  
+
+2. **SynLogic**: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond  
+   [https://arxiv.org/abs/2505.19641](https://arxiv.org/abs/2505.19641)  
+
+3. **Code2Logic**: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning  
+   [https://arxiv.org/abs/2505.13886](https://arxiv.org/abs/2505.13886)  
 
 
 
