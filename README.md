@@ -58,11 +58,29 @@ We would also like to highlight other works that share similar ideas and approac
 If you find this repository helpful, please consider citing our paper:
 
 ```
-@article{jiang2024logicpro,
-  title={LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning},
-  author={Jiang, Jin and Yan, Yuchen and Liu, Yang and Jin, Yonggang and Peng, Shuai and Zhang, Mengdi and Cai, Xunliang and Cao, Yixin and Gao, Liangcai and Tang, Zhi},
-  journal={arXiv e-prints},
-  pages={arXiv--2409},
-  year={2024}
+@inproceedings{jiang-etal-2025-logicpro,
+    title = "{L}ogic{P}ro: Improving Complex Logical Reasoning via Program-Guided Learning",
+    author = "Jiang, Jin  and
+      Yan, Yuchen  and
+      Liu, Yang  and
+      Wang, Jianing  and
+      Peng, Shuai  and
+      Cai, Xunliang  and
+      Cao, Yixin  and
+      Zhang, Mengdi  and
+      Gao, Liangcai",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1270/",
+    pages = "26200--26218",
+    ISBN = "979-8-89176-251-0",
+    abstract = "In this paper, we propose a new data synthesis method called \textbf{LogicPro}, which leverages LeetCode-style algorithm Problems and their corresponding Program solutions to synthesize Complex Logical Reasoning data in text format. First, we synthesize complex reasoning problems through source algorithm problems and test cases. Then, standard answers and intermediate variable outputs are obtained for each problem based on standard python solutions and test cases. Finally, with the guidance of code intermediate variables, we synthesize the text reasoning process for each reasoning problems. Through this method, we can synthesize data that is difficult, scalable, effective, and comes with golden standard answers and high-quality reasoning processes. As a result, with our 540K synthesized dataset constructed solely from 2,360 algorithm problems, our approach achieves significant improvements in multiple models for the datasets \textit{BBH{\textasciicircum}27}, \textit{LogicBench}, \textit{DROP}, \textit{AR-LSAT}, and \textit{GSM8K}, etc. outperforming a wide range of existing reasoning datasets."
 }
 ```
