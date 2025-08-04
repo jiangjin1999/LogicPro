@@ -40,7 +40,7 @@ This method enables us to synthesize reasoning data that is **challenging, scala
 
 
 ## 🔗 Related Work  
-We would also like to highlight other works that share similar ideas and approaches to ours. Please check out the following:  
+We would like to recommend some outstanding works that share similar ideas and approaches with ours. Please take a look at the following research:
 
 1. **CodeI/O**: Condensing Reasoning Patterns via Code Input-Output Prediction  
    [https://arxiv.org/abs/2502.07316v2](https://arxiv.org/abs/2502.07316v2)  
